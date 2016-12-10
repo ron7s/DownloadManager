@@ -1,0 +1,337 @@
+{
+   "badChromeVersion": {
+      "description": "",
+      "message": "The downloads API is only available on dev and beta channels. Update your chrome here."
+   },
+   "contextMenuOpen": {
+      "description": "",
+      "message": "פתח"
+   },
+   "contextMenuOpenFolder": {
+      "description": "",
+      "message": "פתח תיקייה מכילה"
+   },
+   "contextMenuGoToDownloadPage": {
+      "description": "",
+      "message": "עבור לעמוד ההורדות"
+   },
+   "contextMenuDownloadLink": {
+      "description": "",
+      "message": "העתק כתובת הורדה"
+   },
+   "contextMenuDeleteFromDisk": {
+      "description": "",
+      "message": "מחיקה מהכונן הקשיח"
+   },
+   "contextMenuRemoveFromList": {
+      "description": "",
+      "message": "מחיקה מהרשימה"
+   },
+   "translationTitle": {
+      "description": "",
+      "message": "עזור עם התרגום"
+   },
+   "AllDownloadsTitle": {
+      "description": "",
+      "message": "כל ההורדות"
+   },
+   "optionsTitle": {
+      "description": "",
+      "message": "אפשרויות"
+   },
+   "cancelTitle": {
+      "description": "",
+      "message": "ביטול"
+   },
+   "clearAllTitle": {
+      "description": "",
+      "message": "כל ההורדות הנראות"
+   },
+   "clearAllText": {
+      "description": "",
+      "message": "נקה הכול"
+   },
+   "clearCompletedTitle": {
+      "description": "",
+      "message": "נקה את כל ההורדות שהסתיימו"
+   },
+   "clearCompletedText": {
+      "description": "",
+      "message": "נקה הורדות שהסתיימו"
+   },
+   "clearDeletedTitle": {
+      "description": "",
+      "message": "נקה את כל ההורדות שנמחקו"
+   },
+   "clearDeletedText": {
+      "description": "",
+      "message": "נקה הורדות מחוקות"
+   },
+   "clearFailedTitle": {
+      "description": "",
+      "message": "נקה את כל ההורדות שנכשלו"
+   },
+   "clearFailedText": {
+      "description": "",
+      "message": "נקה הורדות שנכשלו"
+   },
+   "eraseTitle": {
+      "description": "",
+      "message": "מחק מהרשימה"
+   },
+   "errorRemoved": {
+      "description": "",
+      "message": "הוסר"
+   },
+   "extDesc": {
+      "description": "תיאור הרחבה",
+      "message": "נהל וגש להורדות שלך בדרך קלה ומהירה"
+   },
+   "extName": {
+      "description": "שם ההרחבה",
+      "message": "מנהל הורדות"
+   },
+   "grantManagementPermission": {
+      "description": "",
+      "message": "הצג קישורים להרחבות שמורידות קבצים."
+   },
+   "loadingOlderDownloads": {
+      "description": "",
+      "message": "טוען הורדות ישנות..."
+   },
+   "managementPermissionInfo": {
+      "description": "",
+      "message": "מספר קבצים הורדו באמצעות הרחבה."
+   },
+   "month0abbr": {
+      "description": "",
+      "message": "ינואר"
+   },
+   "month10abbr": {
+      "description": "",
+      "message": "נובמבר"
+   },
+   "month11abbr": {
+      "description": "",
+      "message": "דצמבר"
+   },
+   "month1abbr": {
+      "description": "",
+      "message": "פברואר"
+   },
+   "month2abbr": {
+      "description": "",
+      "message": "מרץ"
+   },
+   "month3abbr": {
+      "description": "",
+      "message": "אפריל"
+   },
+   "month4abbr": {
+      "description": "",
+      "message": "מאי"
+   },
+   "month5abbr": {
+      "description": "",
+      "message": "יוני"
+   },
+   "month6abbr": {
+      "description": "",
+      "message": "יולי"
+   },
+   "month7abbr": {
+      "description": "",
+      "message": "אוגוסט"
+   },
+   "month8abbr": {
+      "description": "",
+      "message": "ספטמבר"
+   },
+   "month9abbr": {
+      "description": "",
+      "message": "אוקטובר"
+   },
+   "openDownloadsFolderTitle": {
+      "description": "",
+      "message": "פתח תיקיית הורדות"
+   },
+   "openDownloadsFolderText": {
+      "description": "",
+      "message": "תיקיית הורדות"
+   },
+   "settingsTitle": {
+      "description": "",
+      "message": "הגדרות"
+   },
+   "settingsText": {
+      "description": "",
+      "message": "הגדרות"
+   },
+   "openTitle": {
+      "description": "",
+      "message": "פתח"
+   },
+   "openWhenCompleteDays": {
+      "description": "",
+	  "message": "פותח בעוד $days$ ימים ו $hours$ שעות",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "openWhenCompleteFinishing": {
+      "description": "",
+      "message": "פותח בעוד רגע"
+   },
+   "openWhenCompleteHours": {
+      "description": "",
+	  "message": "פותח ב $hours$ שעות ו $mins$ דקות",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteMinutes": {
+      "description": "",
+      "message": "Opening in $mins$m $sec$s",
+      "message": "פותח בעוד $mins$ דקות ו $mins$ שניות",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteSeconds": {
+      "description": "",
+      "message": "  Opening in $sec$s",
+	  "message": "פותח בעוד $sec$ שניות",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "pauseTitle": {
+      "description": "",
+      "message": "השהה"
+   },
+   "referrerTitle": {
+      "description": "",
+      "message": "מפנה"
+   },
+   "removeFileTitle": {
+      "description": "",
+      "message": "הסר קובץ"
+   },
+   "resumeTitle": {
+      "description": "",
+      "message": "המשך"
+   },
+   "retryTitle": {
+      "description": "",
+      "message": "נסה שוב"
+   },
+   "searchPlaceholder": {
+      "description": "",
+      "message": "חיפוש..."
+   },
+   "searching": {
+      "description": "",
+      "message": "מחפש..."
+   },
+   "showInFolderTitle": {
+      "description": "Alt text for show in folder icon",
+      "message": "הצג בתיקייה"
+   },
+   "showOlderDownloads": {
+      "description": "",
+      "message": "הצג הורדות ישנות"
+   },
+   "tabTitle": {
+      "description": "tab title",
+      "message": "הורדות"
+   },
+   "timeLeftDays": {
+      "description": "",
+	  "message": "נשארו עוד $days$ ימים ו $hours$ שעות",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "timeLeftFinishing": {
+      "description": "",
+      "message": "מסיים..."
+   },
+   "timeLeftHours": {
+      "description": "",
+	  "message": "נשארו עוד $hours$ שעות ו $mins$ דקות",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftMinutes": {
+      "description": "",
+	  "message": "נשארו עוד $mins$ דקות ו $sec$ שניות",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftSeconds": {
+      "description": "",
+      "message": "$sec$s left",
+      "message": "נשארו עוד $sec$ שניות",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "zeroItems": {
+      "description": "",
+      "message": "לא הורדו פריטים."
+   },
+   "zeroSearchResults": {
+      "description": "",
+      "message": "אין תוצאות"
+   }
+}
